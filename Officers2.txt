@@ -1,0 +1,36 @@
+Officer Num1:please enter name of officer:amr
+please enter officer id:20109013
+please enter rank of officer
+(from 1-6)4
+please enter officer cases:3
+please enter officer cases:2
+please enter officer cases:1
+please enter officer date of birth:13 3 2002
+please enter officer years of experience:12
+please enter officer days off:123
+please enter officer station name:loran
+please enter officer shift time:day
+Officer Num2:please enter name of officer:ahmed
+please enter officer id:20102344
+please enter rank of officer
+(from 1-6)6
+please enter officer cases:5
+please enter officer cases:6
+please enter officer cases:4
+please enter officer date of birth:12 6 2000
+please enter officer years of experience:25
+please enter officer days off:1123
+please enter officer station name:zezenia
+please enter officer shift time:night
+Officer Num3:please enter name of officer:taymour
+please enter officer id:20109012
+please enter rank of officer
+(from 1-6)2
+please enter officer cases:9
+please enter officer cases:7
+please enter officer cases:8
+please enter officer date of birth:1 1 2001
+please enter officer years of experience:29
+please enter officer days off:300
+please enter officer station name:bakos
+please enter officer shift time:day

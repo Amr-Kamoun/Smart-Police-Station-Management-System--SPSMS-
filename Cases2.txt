@@ -1,0 +1,30 @@
+please enter case number:4
+please enter supervised officer:ahmed
+please enter supervised officer:omar
+Please Enter Case Type:Theft
+Please Enter Creation Date:1 1 2002
+Please Enter Closed Date:1 1 2009
+Please enter the victim numbers: 0
+Please enter the suspects number: 1
+Please enter suspects ID number 1 :345455
+Please Enter if case is closed or not :1
+please enter case number:4
+please enter supervised officer:ahmed
+please enter supervised officer:omar
+Please Enter Case Type:Theft
+Please Enter Creation Date:1 1 2002
+Please Enter Closed Date:1 1 2009
+Please enter the victim numbers: 0
+Please enter the suspects number: 1
+Please enter suspects ID number 1 :345455
+Please Enter if case is closed or not :1
+please enter case number:4
+please enter supervised officer:ahmed
+please enter supervised officer:omar
+Please Enter Case Type:Theft
+Please Enter Creation Date:1 1 2002
+Please Enter Closed Date:1 1 2009
+Please enter the victim numbers: 0
+Please enter the suspects number: 1
+Please enter suspects ID number 1 :345455
+Please Enter if case is closed or not :1
